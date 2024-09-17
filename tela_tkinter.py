@@ -7,7 +7,7 @@ def on_button_click():
 
 # Cria a janela principal
 root = tk.Tk()
-root.title("Exemplo Tkinter")
+root.title("Apenas um exemplo Tkinter")
 
 # Define o tamanho da janela
 root.geometry("300x200")
